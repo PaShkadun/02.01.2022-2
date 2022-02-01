@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd97be60a314f984fbedcbcf3e38494d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - aTexture: {fileID: 10912, guid: 0000000000000000f000000000000000, type: 0}
+  - cube: {fileID: 935184144027587484, guid: 330457448155f7e4bb6d1d0e3729638f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
